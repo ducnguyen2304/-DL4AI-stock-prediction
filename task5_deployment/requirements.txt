@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pyngrok
+nest-asyncio
+streamlit
+tensorflow
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+huggingface_hub
+pillow>=10.4.0
