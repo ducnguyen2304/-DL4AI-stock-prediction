@@ -1,0 +1,17 @@
+tensorflow
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+joblib
+fastapi
+uvicorn
+streamlit
+pyngrok
+nest-asyncio
+huggingface_hub
+scipy
+pillow>=10.4.0
